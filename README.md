@@ -47,5 +47,7 @@ A simple **Python GUI application** that calculates an employee's **weekly pay**
 
 ## 👤 Author  
 **Aakrosh Rai**  
-📧 aakroshrai15@gmail.com  
+📧 Email: aakroshrai15@gmail.com  
+🔗 LinkedIn: [Aakrosh](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
+📂 GitHub: [IerenoLXI](https://github.com/IerenoLXI)
 
